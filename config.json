@@ -1,0 +1,12 @@
+{
+	"auth": {
+		"login": "",
+		"apikey": ""
+	},
+	"jql": "labels = qa_example",
+	"label_to_add": "autoLabel",
+	"base_url": "",
+	"issue_type_key": "10100",
+	"project_id": "",
+	"description": "Test for "
+}
